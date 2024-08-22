@@ -2,18 +2,24 @@
 👋🏻 안녕하세요! 성장해가고 있는 프론트엔드 개발자 김예린입니다. 현재 프론트엔드 파트를 중점으로 공부하고 있으며, 꾸준히 성장해 나가고 있습니다.
 </aside>
 
+<br>
+
 ## 학적
 
 - 천안쌍용고등학교 졸업
 - 인하대학교 정보통신공학과 재학 중
 
+<br>
+
 ## 연락처
 
-[📧 wbflqldks90@naver.com](mailto:wbflqldks90@naver.com)
+[📧 wbflqldks90@inha.edu](mailto:wbflqldks90@inha.edu)
 
 [📱 Instagram: @yerin1412](https://www.instagram.com/yerin1412?igsh=MnF5a2wyYjh5aGhz)
 
 [📁 GitHub: yerroong](https://github.com/yerroong)
+
+<br>
 
 # 📅 Time Line / 약력
 
@@ -30,6 +36,8 @@
     - 정보통신공학과 학생회장 직무대행
     - 재보궐선거, 학과 학생회 부회장 당선
     - 웹개발 연합동아리 ‘멋쟁이 사자처럼 at 인하대학교’ 활동
+
+<br>
 
 ## ✨ Tech Stack ✨
 <div align="center">
@@ -67,6 +75,6 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   </a>
   <a href="mailto:wbflqldks90@inha.edu">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail wbflqldks90@inha.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
