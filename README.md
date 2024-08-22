@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="https://github.com/yerroong/yerroong/blob/main/profile.jpg?raw=true" alt="김예린 사진" width="150" height="150" style="border-radius:50%; margin-right: 20px;">
+    <img src="https://github.com/yerroong/yerroong/blob/main/profile.jpg?raw=true" alt="김예린 사진" style="border-radius:50%; max-width: 150px; height: auto; margin-right: 20px;">
   </div>
   <div>
     <p>
