@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="https://github.com/yerroong/yerroong/blob/main/profile.jpg?raw=true" alt="김예린 사진" style="border-radius:50%; max-width: 50px; height: auto; margin-right: 20px;">
+    <img src="https://github.com/yerroong/yerroong/blob/main/profile.jpg?raw=true" alt="김예린 사진" style="border-radius:50%; width: 100px; height: auto; margin-right: 20px;">
   </div>
   <div>
     <p>
@@ -9,8 +9,6 @@
     </p>
   </div>
 </div>
-
-<br>
 
 ## 학적
 
