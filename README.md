@@ -1,8 +1,3 @@
-<!-- 헤더 부분 -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/123456789/your-custom-image.png" alt="Welcome Banner" />
-</div>
-
 <aside>
 👋🏻 안녕하세요! 성장해가고 있는 프론트엔드 개발자 김예린입니다. 현재 프론트엔드 파트를 중점으로 공부하고 있으며, 꾸준히 성장해 나가고 있습니다.
 </aside>
