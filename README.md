@@ -1,7 +1,18 @@
-<aside>
-👋🏻 안녕하세요! 성장해가고 있는 프론트엔드 개발자 김예린입니다. 
-현재 프론트엔드 파트를 중점으로 공부하고 있으며, 꾸준히 성장해 나가고 있습니다.
-</aside>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p align="left">
+          👋🏻 안녕하세요! 성장해 가고 있는 프론트엔드 개발자 김예린입니다.<br>
+          현재 프론트엔드 파트를 중점으로 공부하고 있으며, 꾸준히 성장해 나가고 있습니다.
+        </p>
+      </td>
+      <td>
+        <img src="https://github.com/yerroong/yerroong/blob/main/profile.jpg?raw=true" alt="김예린 사진" width="150" height="150" style="border-radius:50%;">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
