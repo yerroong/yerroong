@@ -46,11 +46,13 @@
     - LG U+ 유레카 부트캠프 프론트엔드 비대면반 ing
 <br>
 
-# 📅 Awards / 수상
-
+# 🏆️ Awards / 수상
+  - 나눔엔젤스, 인하대학교 블록체인 센터 “2025 AI 헤커톤” 우수상
+  - Build AI Hackathon 2025 Upstage 트랙 3등
 <br>
 
-# 📅 자격
+# 📚 자격증
+  - 데이터분석준전문가 ADSP
 
 <br>
 
