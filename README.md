@@ -4,7 +4,7 @@
       👋🏻 안녕하세요! <b>성장하는 프론트엔드 개발자 김예린</b>입니다.<br>
       <b>능동적인 협업</b>과 <b>사용자 경험(UX)</b>을 최우선으로,<br>
       <b>강건하고 최적화된 코드</b>를 작성하며 문제를 해결하는 개발을 지향합니다.<br>
-      꾸준한 성장을 통해 프론트엔드를 넘어 **다양한 IT 영역을 아우르는 개발자**로 나아가고 있습니다.
+      꾸준한 성장을 통해 프론트엔드를 넘어 다양한 IT 영역을 아우르는 개발자자로 나아가고 있습니다.
     </p>
   </div>
 </div>
@@ -24,10 +24,10 @@
 
 ## 📈 Stats & Profile 📊
 <div align="center">
-    <a href="https://www.acmicpc.net/user/wbflqldks90" target="_blank">
+    <!-- <a href="https://www.acmicpc.net/user/wbflqldks90" target="_blank">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wbflqldks90" alt="Baekjoon Profile"/>
     </a>
-    <br/>
+    <br/> -->
     <img src="https://streak-stats.demolab.com?user=yerroong&theme=tokyonight&hide_border=true&border_radius=10&ring=9B59B6&fire=9B59B6&sideNums=ffffff&currStreakNum=9B59B6&sideLabels=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </div>
 </div>
@@ -48,7 +48,8 @@
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp 
+  <br/>
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
