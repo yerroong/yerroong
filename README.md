@@ -1,8 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=230&section=header&text=안녕하세요%20개발자%20김예린입니다&animation=typewriter&desc=Hello,%20Developer%20Yerin!%20|%20Frontend%20Engineer&descAlign=center)
-
-</div>
+![header](https://capsule-render.vercel.app/api?type=section&color=transparent&height=230&section=header&text=안녕하세요%20개발자%20김예린입니다&fontSize=40&fontColor=4A224A&animation=typewriter&desc=Hello,%20Developer%20Yerin!%20|%20Frontend%20Engineer&descAlign=center&descSize=20&descColor=4A224A)
 
 </div>
 <br/>
@@ -36,22 +34,32 @@
 <img src="https://komarev.com/ghpvc/?username=yerroong&label=Profile%20Views&color=blue&style=flat-square" />
 
 <br/><br/>
-<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
-    <div style="flex: 1 1 300px; max-width: 400px;">
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1 1 300px; max-width: 350px;">
         <h3>Baekjoon Profile</h3>
         <a href="https://www.acmicpc.net/user/wbflqldks90" target="_blank">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wbflqldks90" alt="Baekjoon Profile" style="width: 100%; height: auto;"/>
         </a>
     </div>
 
-    <div style="flex: 1 1 300px; max-width: 450px; display: flex; flex-direction: column; gap: 10px;">
+    <div style="flex: 1 1 300px; max-width: 480px;">
         <h3>GitHub Stats & Activity</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=yerroong&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=9B59B6&icon_color=9B59B6" alt="GitHub Stats" style="width: 100%; height: auto;"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerroong&layout=compact&theme=tokyonight&hide_border=true&title_color=9B59B6&icon_color=9B59B6" alt="Top Languages" style="width: 100%; height: auto;"/>
-        <img src="https://streak-stats.demolab.com?user=yerroong&theme=tokyonight&hide_border=true&border_radius=10&ring=9B59B6&fire=9B59B6&sideNums=ffffff&currStreakNum=9B59B6&sideLabels=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" style="width: 100%; height: auto;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=yerroong&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=9B59B6&icon_color=9B59B6" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerroong&layout=compact&theme=tokyonight&hide_border=true&title_color=9B59B6&icon_color=9B59B6" alt="Top Languages"/>
+        <img src="https://streak-stats.demolab.com?user=yerroong&theme=tokyonight&hide_border=true&border_radius=10&ring=9B59B6&fire=9B59B6&sideNums=ffffff&currStreakNum=9B59B6&sideLabels=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
     </div>
 </div>
 </div>
+<br/>
+
+## 🌟 Main Skill Stack 🚀
+
+* **React, Next.js:** 기반 웹/앱 제작 및 최적화
+* **TypeScript:** 컴포넌트 타입 설계 및 에러 방지 개발
+* **UI/UX:** 사용자 흐름 중심의 와이어프레임 제작 및 피드백 적용
+* **Tools & Collaboration:** Figma/Notion으로 기획, 디자인, 협업 및 VSCode/GitHub 기반 코드 관리
+
 <br/>
 
 ## ✨ Tech Stack 💻
