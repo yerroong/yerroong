@@ -91,11 +91,3 @@
     <img src="https://img.shields.io/badge/Gmail wbflqldks90@inha.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-<br/>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer)
-
-</div>
