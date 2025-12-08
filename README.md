@@ -23,10 +23,6 @@
 <br/>
 
 ## 📈 Stats & Profile 📊
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=yerroong&label=Profile%20Views&color=blue&style=flat-square" />
-
 <div align="center">
     <a href="https://www.acmicpc.net/user/wbflqldks90" target="_blank">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wbflqldks90" alt="Baekjoon Profile"/>
