@@ -1,16 +1,10 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=C3B1E1&height=230&section=header&text=안녕하세요%20개발자%20김예린입니다&fontSize=40&fontColor=ffffff&animation=typewriter&desc=Hello,%20Developer%20Yerin!%20|%20Frontend%20Engineer&descAlign=center&descSize=20&descColor=ffffff)
-
-</div>
-<br/>
-
 <div style="display: flex; align-items: center;">
   <div>
     <p>
-      👋🏻 안녕하세요! 성장해 가고 있는 프론트엔드 개발자 <b>김예린</b>입니다.<br>
-      꾸준한 실력 향상과 사용자 경험을 중심으로 한 프론트엔드 개발을 지향합니다.<br>
-      다양한 프로젝트와 경험을 통해 나아가고 있습니다.
+      👋🏻 안녕하세요! **성장하는 프론트엔드 개발자 김예린**입니다.<br>
+      **능동적인 협업**과 **사용자 경험(UX)**을 최우선으로,<br>
+      **강건하고 최적화된 코드**를 작성하며 문제를 해결하는 개발을 지향합니다.<br>
+      꾸준한 성장을 통해 프론트엔드를 넘어 **다양한 IT 영역을 아우르는 개발자**로 나아가고 있습니다.
     </p>
   </div>
 </div>
