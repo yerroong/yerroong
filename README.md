@@ -1,10 +1,7 @@
 <!-- 헤더 애니메이션 -->
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Yerin%20Kim%20👋🏻&fontSize=50&fontColor=ffffff&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=김예린%20깃허브%20👋🏻&fontSize=50&fontColor=ffffff&animation=fadeIn)
 </div>
-
 <br/>
 
 <div style="display: flex; align-items: center;">
