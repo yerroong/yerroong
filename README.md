@@ -1,7 +1,6 @@
-<!-- 헤더 애니메이션 (보라 계열) -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=230&section=header&text=김예린%20깃허브%20👋🏻&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=230&section=header&text=안녕하세요%20개발자%20김예린입니다&fontSize=40&fontColor=ffffff&animation=typewriter&desc=Hello,%20Developer%20Yerin!%20|%20Frontend%20Engineer&descAlign=center&descSize=20&descColor=ffffff)
 
 </div>
 <br/>
@@ -15,10 +14,9 @@
     </p>
   </div>
 </div>
+<br/>
 
----
-
-## 🔗 More About Me  
+## 🔗 More About Me 📝
 <div align="center">
   <a href="https://yerin-page.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -28,41 +26,37 @@
 <p align="center">
   👆 위 페이지에서 저의 <b>프로젝트 / 약력 / 기술 스택</b>을 더 자세히 확인하실 수 있습니다.
 </p>
+<br/>
 
----
-
-## 🧩 Baekjoon Profile
-
-<div align="center">
-
-[![Baekjoon](http://mazassumnida.wtf/api/mini/generate_badge?boj=wbflqldks90)](https://www.acmicpc.net/user/wbflqldks90)
-
-</div>
-
----
-
-## 📈 GitHub Stats & 활동 기록
+## 📈 Stats & Profile 📊
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=yerroong&label=Profile%20Views&color=blue&style=flat-square" />
 
 <br/><br/>
+<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
+    <div style="flex: 1 1 300px; max-width: 400px;">
+        <h3>Baekjoon Profile</h3>
+        <a href="https://www.acmicpc.net/user/wbflqldks90" target="_blank">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wbflqldks90" alt="Baekjoon Profile" style="width: 100%; height: auto;"/>
+        </a>
+    </div>
 
-<img src="https://streak-stats.demolab.com?user=yerroong&theme=tokyonight&hide_border=true&border_radius=10" height="180px" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=yerroong&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180px" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerroong&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
-
+    <div style="flex: 1 1 300px; max-width: 450px; display: flex; flex-direction: column; gap: 10px;">
+        <h3>GitHub Stats & Activity</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=yerroong&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=9B59B6&icon_color=9B59B6" alt="GitHub Stats" style="width: 100%; height: auto;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerroong&layout=compact&theme=tokyonight&hide_border=true&title_color=9B59B6&icon_color=9B59B6" alt="Top Languages" style="width: 100%; height: auto;"/>
+        <img src="https://streak-stats.demolab.com?user=yerroong&theme=tokyonight&hide_border=true&border_radius=10&ring=9B59B6&fire=9B59B6&sideNums=ffffff&currStreakNum=9B59B6&sideLabels=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" style="width: 100%; height: auto;"/>
+    </div>
 </div>
+</div>
+<br/>
 
----
-
-# ✨ Tech Stack ✨
+## ✨ Tech Stack 💻
 
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -71,10 +65,9 @@
   <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
 </div>
+<br/>
 
-<br>
-
-# 📚 Studying 📚
+## 📚 Studying 🧐
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
@@ -82,10 +75,9 @@
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/sql-003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
 </div>
+<br/>
 
----
-
-## 🛠 Tools 🛠
+## 🛠 Tools ⚙️
 
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -93,13 +85,12 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
 </div>
+<br/>
 
----
-
-# 📫 Contact
+## 📫 Contact 📧
 
 <div align="center">
-  <a href="https://www.notion.so/yerin1412/s-Introduction-616b565939a34ca19cacfc0efa979746">
+  <a href="https://www.notion.so/yerin1412/s-Introduction-616b565939a34ca19cacfc0efa979746" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
   <a href="mailto:wbflqldks90@inha.edu">
