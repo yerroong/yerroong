@@ -1,6 +1,6 @@
-<!-- 헤더 애니메이션 -->
+<!-- 헤더 애니메이션 (보라 계열) -->
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=김예린%20깃허브%20👋🏻&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=230&section=header&text=김예린%20깃허브%20👋🏻&fontSize=50&fontColor=ffffff&animation=fadeIn)
 </div>
 <br/>
 
@@ -29,83 +29,56 @@
 
 ---
 
+## 🧩 Baekjoon Profile
+
+<div align="center">
+
+[![Baekjoon](http://mazassumnida.wtf/api/mini/generate_badge?boj=wbflqldks90)](https://www.acmicpc.net/user/wbflqldks90)
+
+</div>
+
+---
+
 ## 📈 GitHub Stats & 활동 기록
 
 <div align="center">
 
-<!-- 프로필 조회수 -->
 <img src="https://komarev.com/ghpvc/?username=yerroong&label=Profile%20Views&color=blue&style=flat-square" />
 
 <br/><br/>
 
-<!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=yerroong&theme=tokyonight&hide_border=true&border_radius=10" height="180px" />
 
-<!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=yerroong&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180px" />
 
-<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerroong&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
 
 </div>
 
 ---
 
-# 📅 Time Line / 약력
-
-- **2003**: 충청남도 천안시 출생  
-- **2022**
-  - 천안쌍용고등학교 졸업  
-  - 인하대학교 정보통신공학과 입학  
-- **2023**
-  - 정보통신공학과 축구 소모임 블루투스 운영진  
-  - 농구 소모임 아이스비 총무  
-  - 학과 학생회 alICE 기획부장  
-  - 2023 달꿈 스터디 콘서트 대학생 멘토  
-- **2024**
-  - 정보통신공학과 학생회장 직무대행  
-  - 재보궐선거 부회장 당선  
-  - 전자공학과 CVIP Lab 학부연구생  
-  - 멋쟁이사자처럼 12기 FE 수료  
-- **2025**
-  - 생성형컴퓨팅 연구실 학부연구생  
-  - 멋쟁이사자처럼 13기 FE 운영진  
-  - LG U+ 유레카 3기 프론트엔드 과정 ing  
-
----
-
-# 🏆 Awards / 수상
-
-- 🥈 **나눔엔젤스 × 인하대 블록체인센터 – 2025 AI 해커톤 우수상**  
-- 🥉 **Build AI Hackathon 2025 – Upstage Track 3등**
-
----
-
-# 📚 자격증
-
-- 데이터분석준전문가 ADSP  
-- Google Analytics 4 Certification  
-
----
-
-## ✨ Tech Stack ✨
+# ✨ Tech Stack ✨
 
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
 </div>
 
 <br>
 
-## 📚 Studying 📚
+# 📚 Studying 📚
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/sql-003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
 </div>
 
 ---
