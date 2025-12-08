@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=section&color=transparent&height=230&section=header&text=안녕하세요%20개발자%20김예린입니다&fontSize=40&fontColor=4A224A&animation=typewriter&desc=Hello,%20Developer%20Yerin!%20|%20Frontend%20Engineer&descAlign=center&descSize=20&descColor=4A224A)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C3B1E1&height=230&section=header&text=안녕하세요%20개발자%20김예린입니다&fontSize=40&fontColor=ffffff&animation=typewriter&desc=Hello,%20Developer%20Yerin!%20|%20Frontend%20Engineer&descAlign=center&descSize=20&descColor=ffffff)
 
 </div>
 <br/>
@@ -39,11 +39,9 @@
     <a href="https://www.acmicpc.net/user/wbflqldks90" target="_blank">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wbflqldks90" alt="Baekjoon Profile" height="195px"/>
     </a>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=yerroong&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=9B59B6&icon_color=9B59B6" alt="GitHub Stats" height="195px"/>
-</div>
-<br/>
-<div align="center">
+    <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yerroong&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=9B59B6&icon_color=9B59B6" alt="GitHub Stats"/>
+    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerroong&layout=compact&theme=tokyonight&hide_border=true&title_color=9B59B6&icon_color=9B59B6" alt="Top Languages"/>
     <br/>
     <img src="https://streak-stats.demolab.com?user=yerroong&theme=tokyonight&hide_border=true&border_radius=10&ring=9B59B6&fire=9B59B6&sideNums=ffffff&currStreakNum=9B59B6&sideLabels=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
