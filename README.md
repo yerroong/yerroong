@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=section&color=transparent&height=230&section=header&text=안녕하세요%20개발자%20김예린입니다&fontSize=40&fontColor=4A224A&animation=typewriter&desc=Hello,%20Developer%20Yerin!%20|%20Frontend%20Engineer&descAlign=center&descSize=20&descColor=4A224A)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=230&section=header&text=안녕하세요%20개발자%20김예린입니다&animation=typewriter&desc=Hello,%20Developer%20Yerin!%20|%20Frontend%20Engineer&descAlign=center)
 
 </div>
 
