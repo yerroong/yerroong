@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=section&color=transparent&height=230&section=header&text=안녕하세요%20개발자%20김예린입니다&fontSize=40&fontColor=4A224A&animation=typewriter&desc=Hello,%20Developer%20Yerin!%20|%20Frontend%20Engineer&descAlign=center&descSize=20&descColor=4A224A)
+![header](https://capsule-render.vercel.app/api?type=wave&color=5A225A&height=200&text=안녕하세요%20개발자%20김예린입니다&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Engineer&descAlign=center&descSize=20&descColor=ffffff)
 
 </div>
 <br/>
@@ -35,18 +35,21 @@
 
 <br/><br/>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <div style="flex: 1 1 300px; max-width: 350px;">
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+    
+    <div style="width: 100%; max-width: 480px;">
         <h3>Baekjoon Profile</h3>
         <a href="https://www.acmicpc.net/user/wbflqldks90" target="_blank">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wbflqldks90" alt="Baekjoon Profile" style="width: 100%; height: auto;"/>
         </a>
     </div>
 
-    <div style="flex: 1 1 300px; max-width: 480px;">
+    <div style="width: 100%; max-width: 480px;">
         <h3>GitHub Stats & Activity</h3>
         <img src="https://github-readme-stats.vercel.app/api?username=yerroong&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=9B59B6&icon_color=9B59B6" alt="GitHub Stats"/>
+        <br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerroong&layout=compact&theme=tokyonight&hide_border=true&title_color=9B59B6&icon_color=9B59B6" alt="Top Languages"/>
+        <br/>
         <img src="https://streak-stats.demolab.com?user=yerroong&theme=tokyonight&hide_border=true&border_radius=10&ring=9B59B6&fire=9B59B6&sideNums=ffffff&currStreakNum=9B59B6&sideLabels=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
     </div>
 </div>
@@ -106,12 +109,4 @@
   <a href="mailto:wbflqldks90@inha.edu">
     <img src="https://img.shields.io/badge/Gmail wbflqldks90@inha.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer)
-
 </div>
