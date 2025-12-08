@@ -33,16 +33,10 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yerroong&label=Profile%20Views&color=blue&style=flat-square" />
 
-<br/><br/>
-
 <div align="center">
     <a href="https://www.acmicpc.net/user/wbflqldks90" target="_blank">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wbflqldks90" alt="Baekjoon Profile"/>
     </a>
-    <br/><br/>
-    <img src="https://github-readme-stats.cyclic.app/api?username=yerroong&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=9B59B6&icon_color=9B59B6" alt="GitHub Stats"/>
-    <br/>
-    <img src="https://github-readme-stats.cyclic.app/api/top-langs/?username=yerroong&layout=compact&theme=tokyonight&hide_border=true&title_color=9B59B6&icon_color=9B59B6" alt="Top Languages"/>
     <br/>
     <img src="https://streak-stats.demolab.com?user=yerroong&theme=tokyonight&hide_border=true&border_radius=10&ring=9B59B6&fire=9B59B6&sideNums=ffffff&currStreakNum=9B59B6&sideLabels=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </div>
