@@ -10,7 +10,7 @@
 </div>
 <br/>
 
-## 🔗 More About Me 📝
+## 🔗 More About Me 
 <div align="center">
   <a href="https://yerin-page.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -22,7 +22,7 @@
 </p>
 <br/>
 
-## 📈 Stats & Profile 📊
+## 📈 Stats & Profile 
 <div align="center">
     <!-- <a href="https://www.acmicpc.net/user/wbflqldks90" target="_blank">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wbflqldks90" alt="Baekjoon Profile"/>
@@ -33,7 +33,7 @@
 </div>
 <br/>
 
-## 🌟 Main Skill Stack 🚀
+## 🌟 Main Skill Stack 
 
 * **React, Next.js:** 기반 웹/앱 제작 및 최적화
 * **TypeScript:** 컴포넌트 타입 설계 및 에러 방지 개발
@@ -42,7 +42,7 @@
 
 <br/>
 
-## ✨ Tech Stack 💻
+## ✨ Tech Stack 
 
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -56,7 +56,7 @@
 </div>
 <br/>
 
-## 📚 Studying 🧐
+## 📚 Studying 
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
@@ -66,7 +66,7 @@
 </div>
 <br/>
 
-## 🛠 Tools ⚙️
+## 🛠 Tools 
 
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -77,7 +77,7 @@
 </div>
 <br/>
 
-## 📫 Contact 📧
+## 📫 Contact 
 
 <div align="center">
   <a href="https://www.notion.so/yerin1412/s-Introduction-616b565939a34ca19cacfc0efa979746" target="_blank">
