@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div align="center">
   <div>
     <p>
       👋🏻 안녕하세요! <b>성장하는 프론트엔드 개발자 김예린</b>입니다.<br>
