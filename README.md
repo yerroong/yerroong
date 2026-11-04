@@ -15,9 +15,6 @@
   <a href="https://yerin-page.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.notion.so/yerin1412/s-Introduction-616b565939a34ca19cacfc0efa979746" target="_blank">
-    <img src="https://img.shields.io/badge/Notion Resume-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
 </div>
 
 <p align="center">
@@ -27,10 +24,6 @@
 
 ## 📈 Stats & Problem Solving 
 <div align="center">
-    <a href="https://solved.ac/wbflqldks90" target="_blank">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wbflqldks90" alt="Baekjoon Profile"/>
-    </a>
-    <br/><br/>
     <a href="https://github.com/yerroong/2026Programmers-study" target="_blank">
         <img src="https://img.shields.io/badge/Programmers%20Algorithm-000000?style=for-the-badge&logo=python&logoColor=white" alt="Programmers Study Repo"/>
     </a>
