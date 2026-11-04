@@ -22,17 +22,13 @@
 </p>
 <br/>
 
-## 📈 Stats & Problem Solving 
+## 📈 Stats
 <div align="center">
-    <a href="https://github.com/yerroong/2026Programmers-study" target="_blank">
-        <img src="https://img.shields.io/badge/Programmers%20Algorithm-000000?style=for-the-badge&logo=python&logoColor=white" alt="Programmers Study Repo"/>
-    </a>
-    <br/><br/>
     <img src="https://streak-stats.demolab.com?user=yerroong&theme=tokyonight&hide_border=true&border_radius=10&ring=9B59B6&fire=9B59B6&sideNums=ffffff&currStreakNum=9B59B6&sideLabels=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </div>
 <br/>
 
-## 🌟 Main Skill Stack 
+## 🌟 Stack 
 
 * **React, Next.js:** 기반 웹/앱 제작 및 최적화
 * **TypeScript:** 컴포넌트 타입 설계 및 에러 방지 개발
@@ -41,7 +37,7 @@
 
 <br/>
 
-## 🏆 Key Experience & Highlights
+## 🏆 Key Experience
 
 * **IBK기업은행 IT 청년인턴 (카드지원부 | 35기 우수인턴):** 부정사용 대응 및 프로세스 데이터 최적화, 당행 AI AX/DX 아이디어 제안, 팀장으로서 Notion 기반 협업 프로세스 효율화 구축
 * **LG유플러스 유레카 3기 SW 최종융합프로젝트 최우수상(1등):** 대규모 팀 프로젝트 프론트엔드/UI 리드, 공통 컴포넌트 아키텍처 설계 및 REST API 연동
